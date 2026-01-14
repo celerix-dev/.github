@@ -17,6 +17,8 @@
 ## 🏛️ The Architecture
 Celerix is a collection of standalone tools designed to work together as a federated, local-first ecosystem.
 
+* **Modular & Standalone:** Every application is a fully functional, independent unit. You don't need the whole suite to use one tool. If you only need a file server, just run **Depot**. 
+* **Integrated Personas:** Every app includes built-in local identity management, but can seamlessly upgrade to **Celerix Persona** for unified identity across your network.
 * **Always Offline:** Every feature in the Celerix suite is designed to function without an internet connection. If the world goes offline, your tools stay up.
 * **Local-First:** Apps run on your hardware and save to your disks.
 * **Persona System:** Identity handled locally. We recognize your machines so you don't have to manage accounts.
