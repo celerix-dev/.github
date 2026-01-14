@@ -1,18 +1,48 @@
-# celerix-dev
+# Celerix: A Federated Local Ecosystem 🛰️
 
-High-performance, privacy-first software for everyone.
-
----
-
-## Mission
-To build open-source applications that prioritize local execution, raw performance, and absolute user privacy. We believe that quality software should not require cloud synchronization, data telemetry, or unnecessary resource overhead.
-
-## Core Principles
-* **Privacy by Default:** Zero tracking. Zero telemetry. Your data remains strictly local and under your control.
-* **Performance Engineering:** Leveraging modern optimization techniques to ensure a minimal resource footprint and near-instant responsiveness.
-* **Open Sovereignty:** Fully open-source, auditable codebases that empower users to own their digital tools and workflows.
+**High-performance, privacy-first software for managed local networks.** *Simple to run. Impossible to track.*
 
 ---
 
-### Security & Contact
-For security disclosures or administrative inquiries, please refer to the security policy in individual repositories.
+## 🛡️ The Celerix Transparency Guarantee
+**Your data is none of our business.** Celerix is a suite of tools built for people who want the convenience of modern software without the "privacy tax" of the cloud. 
+
+* **Zero Tracking:** No cookies, no analytics, no "anonymous" IDs.
+* **No Telemetry:** Our binaries do not "phone home." There is no background chatter to our servers.
+* **Open & Auditable:** The code is public. If a Celerix tool makes a network call, it's because *you* told it to.
+* **Total Sovereignty:** You own the hardware, you own the binary, and you own the data.
+
+---
+
+## 🏛️ The Architecture
+Celerix is a collection of standalone tools designed to work together as a federated, local-first ecosystem.
+
+* **Always Offline:** Every feature in the Celerix suite is designed to function without an internet connection. If the world goes offline, your tools stay up.
+* **Local-First:** Apps run on your hardware and save to your disks.
+* **Persona System:** Identity handled locally. We recognize your machines so you don't have to manage accounts.
+* **Lightweight Allure:** Built for speed and minimal footprints. We prioritize small binaries and near-zero idle resource usage.
+* **Hardened Borders:** Designed for private networks. Internet access is an option, not a default.
+
+---
+
+## 📦 The Celerix Suite
+
+| Project | Purpose | Status |
+| :--- | :--- | :--- |
+| **[Toolbox](https://github.com/celerix-dev/celerix-dev-toolbox)** | Practical utilities for your local development workshop. | 🟡 Alpha |
+| **[Git GUI](https://github.com/celerix-dev/celerix-git-gui)** | A fast, lightweight client for managing your code. | 🟡 Alpha |
+| **[Depot](https://github.com/celerix-dev/depot)** | Simple, high-speed file sharing for your local devices. | 🟡 Alpha |
+| **Persona** | Local identity service to link your local devices together. | 🏗️ Planned |
+| **Chat** | The instant LAN clipboard. Talk and send snippets. | 🏗️ Planned |
+| **Vault** | Secure, local storage for your secrets and keys. | 🏗️ Planned |
+| **Pulse** | A simple dashboard to monitor your Celerix vitals. | 🏗️ Planned |
+| **Proxy** | A secure doorway to access your tools from the world. | 🏗️ Planned |
+
+---
+
+### 📡 Network Policy
+**Local by default. Local by design.** Celerix applications operate strictly within the boundaries of your private/local network. Even when using **Celerix Sync**, data movement is peer-to-peer between your own machines. 
+
+No Celerix binary will ever attempt to reach the public internet. If you monitor your outbound traffic and see a request to an external domain from one of our tools, **report it immediately as a critical privacy bug.**
+
+> **Presto!** Simple tools for people who like to stay in control.
