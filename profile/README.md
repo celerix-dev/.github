@@ -39,6 +39,7 @@ Celerix is a collection of standalone tools designed to work together as a feder
 | **Vault** | Secure, local storage for your secrets and keys. | 🏗️ Planned |
 | **Pulse** | A simple dashboard to monitor your Celerix vitals. | 🏗️ Planned |
 | **Proxy** | A secure doorway to access your tools from the world. | 🏗️ Planned |
+| **Gateway** | Auto Discovery and port forwarding for the Celerix suite. | 🏗️ Planned |
 
 ---
 
