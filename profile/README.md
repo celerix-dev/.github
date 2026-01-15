@@ -36,7 +36,7 @@ Celerix is a collection of standalone tools designed to work together as a feder
 | **[Depot](https://github.com/celerix-dev/depot)** | Simple, high-speed file sharing for your local devices. | 🟡 Alpha |
 | **Persona** | Local identity service to link your local devices together. | 🏗️ Planned |
 | **Chat** | The instant LAN clipboard. Talk and send snippets. | 🏗️ Planned |
-| **Vault** | Secure, local storage for your secrets and keys. | 🏗️ Planned |
+| **Store** | Secure, storage engine for your data and secrets | 🏗️ In Development |
 | **Pulse** | A simple dashboard to monitor your Celerix vitals. | 🏗️ Planned |
 | **Proxy** | A secure doorway to access your tools from the world. | 🏗️ Planned |
 | **Gateway** | Auto Discovery and port forwarding for the Celerix suite. | 🏗️ Planned |
