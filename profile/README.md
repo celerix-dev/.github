@@ -34,7 +34,6 @@ Celerix is a collection of standalone tools designed to work together as a feder
 | **[Toolbox](https://github.com/celerix-dev/celerix-dev-toolbox)** | Practical utilities for your local development workshop. | 🟡 Alpha |
 | **[Git GUI](https://github.com/celerix-dev/celerix-git-gui)** | A fast, lightweight client for managing your code. | 🟡 Alpha |
 | **[Depot](https://github.com/celerix-dev/depot)** | Simple, high-speed file sharing for your local devices. | 🟡 Alpha |
-| **Persona** | Local identity service to link your local devices together. | 🏗️ Planned |
 | **Chat** | The instant LAN clipboard. Talk and send snippets. | 🏗️ Planned |
 | **[Store](https://github.com/celerix-dev/celerix-store)** | Secure, storage engine for your data and secrets | 🟡 Alpha |
 | **Pulse** | A simple dashboard to monitor your Celerix vitals. | 🏗️ Planned |
