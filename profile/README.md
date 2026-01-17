@@ -29,16 +29,16 @@ Celerix is a collection of standalone tools designed to work together as a feder
 
 ## 📦 The Celerix Suite
 
-| Project | Purpose | Status |
-| :--- | :--- | :--- |
-| **[Toolbox](https://github.com/celerix-dev/celerix-dev-toolbox)** | Practical utilities for your local development workshop. | 🟡 Alpha |
-| **[Git GUI](https://github.com/celerix-dev/celerix-git-gui)** | A fast, lightweight client for managing your code. | 🟡 Alpha |
-| **[Depot](https://github.com/celerix-dev/depot)** | Simple, high-speed file sharing for your local devices. | 🟡 Alpha |
-| **Chat** | The instant LAN clipboard. Talk and send snippets. | 🏗️ Planned |
-| **[Store](https://github.com/celerix-dev/celerix-store)** | Secure, storage engine for your data and secrets | 🟡 Alpha |
-| **Pulse** | A simple dashboard to monitor your Celerix vitals. | 🏗️ Planned |
-| **Proxy** | A secure doorway to access your tools from the world. | 🏗️ Planned |
-| **Gateway** | Auto Discovery and port forwarding for the Celerix suite. | 🏗️ Planned |
+| Project | Purpose | Status | Type |
+| :--- | :--- | :--- | :--- |
+| **[Toolbox](https://github.com/celerix-dev/celerix-dev-toolbox)** | Practical utilities for your local development workshop. | 🟡 Alpha | Application |
+| **[Git GUI](https://github.com/celerix-dev/celerix-git-gui)** | A fast, lightweight client for managing your code. | 🟡 Alpha | Application |
+| **[Depot](https://github.com/celerix-dev/depot)** | Simple, high-speed file sharing for your local devices. | 🟡 Alpha | Service + Web UI |
+| **Chat** | The instant LAN clipboard. Talk and send snippets. | 🏗️ Planned | Service + Web UI |
+| **[Store](https://github.com/celerix-dev/celerix-store)** | Secure, storage engine for your data and secrets | 🟡 Alpha | Service + Web UI |
+| **Pulse** | A simple dashboard to monitor your Celerix vitals. | 🏗️ Planned | Service + Web UI |
+| **Proxy** | A secure doorway to access your tools from the world. | 🏗️ Planned | Service |
+| **Gateway** | Auto Discovery and port forwarding for the Celerix suite. | 🏗️ Planned | Service |
 
 ---
 
