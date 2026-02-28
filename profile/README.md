@@ -38,6 +38,7 @@ Celerix is a collection of standalone tools designed to work together as a feder
 | **Chat** | The instant LAN clipboard. Talk and send snippets. | 🏗️ Planned | Service + Web UI |
 | **[Store](https://github.com/celerix-dev/celerix-store)** | Secure, storage engine for your data and secrets | 🟡 Alpha | Service + Web UI |
 | **[Store-rust](https://github.com/celerix-dev/celerix-store-rust)** | Rust version of celerix-store | 🟡 Alpha | Service, Web UI -- 🏗️ Planned |
+| **[Spectrum](https://github.com/celerix-dev/celerix-spectrum)** | Framework-agnostic primitives for color and layout. | 🟡 Alpha | Library |
 | **Pulse** | A simple dashboard to monitor your Celerix vitals. | 🏗️ Planned | Service + Web UI |
 | **Proxy** | A secure doorway to access your tools from the world. | 🏗️ Planned | Service |
 | **Gateway** | Auto Discovery and port forwarding for the Celerix suite. | 🏗️ Planned | Service |
